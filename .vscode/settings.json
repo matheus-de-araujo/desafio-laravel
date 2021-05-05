@@ -11,7 +11,10 @@
     "cSpell.ignoreWords": [
         "by",
         "csrf",
+        "endauth",
         "enderror",
+        "endguest",
+        "gstatic",
         "ixu",
         "mi",
         "npkj",
