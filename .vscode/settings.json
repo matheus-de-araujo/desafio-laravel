@@ -7,5 +7,17 @@
         "laravel",
         "mailhog",
         "user"
+    ],
+    "cSpell.ignoreWords": [
+        "by",
+        "csrf",
+        "enderror",
+        "ixu",
+        "mi",
+        "npkj",
+        "o",
+        "oq",
+        "r",
+        "y"
     ]
 }

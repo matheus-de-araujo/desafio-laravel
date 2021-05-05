@@ -71,10 +71,10 @@ return [
             'model' => App\Models\Pessoa::class,
         ],
 
-        // 'users' => [
-        //     'driver' => 'database',
-        //     'table' => 'users',
-        // ],
+        'users' => [
+            'driver' => 'database',
+            'table' => 'pessoas',
+        ],
     ],
 
     /*

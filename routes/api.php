@@ -1,5 +1,5 @@
 <?php
 
-use App\Http\Controllers\UserController;
+use App\Http\Controllers\PessoaController;
 
-Route::apiResource('user', UserController::class);
+Route::apiResource('pessoa', PessoaController::class);
