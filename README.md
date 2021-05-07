@@ -12,5 +12,7 @@
 
 :heavy_check_mark:  Implementar um Sistema de Autenticação.
 
+:heavy_check_mark:  Colocar um lista de pessoas na página Home.
+
 ​	 
 
