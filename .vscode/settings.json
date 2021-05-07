@@ -3,9 +3,11 @@
         "app",
         "authenticatable",
         "class",
+        "endforeach",
         "endsection",
         "laravel",
         "mailhog",
+        "renderable",
         "user"
     ],
     "cSpell.ignoreWords": [
