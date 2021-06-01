@@ -43,7 +43,7 @@
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/matheus-de-araujo/estrutura-de-dados
+$ git clone https://github.com/matheus-de-araujo/desafio-laravel
 
 ```
 
