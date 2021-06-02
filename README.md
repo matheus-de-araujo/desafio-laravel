@@ -9,7 +9,7 @@
 <p align="center">
 	<a href="#-sobre-o-projeto">Sobre</a> •
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
- 	<a href="#-metas">Metas</a> • 
+ 	<a href="#-metas-no-projeto">Metas</a> • 
   	<a href="#-tecnologias">Tecnologias</a>
 </p>
 
@@ -17,7 +17,7 @@
 ## :pencil: Sobre o projeto
 É um repositório de aprendizagem, onde estou estudando e aprendendo como funciona o framework Laravel PHP
 	 
-## Metas no Projeto
+## 🎯 Metas no Projeto
 - [X] Preparar o ambiente de desenvolvimento.
 
 - [X] Construir um CRUD de pessoa usando o PostMan, como serviço de API.
