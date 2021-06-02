@@ -18,13 +18,13 @@
 É um repositório de aprendizagem, onde estou estudando e aprendendo como funciona o framework Laravel PHP
 	 
 ## Metas no Projeto
-:heavy_check_mark: Preparar o ambiente de desenvolvimento.
+- [X] Preparar o ambiente de desenvolvimento.
 
-:heavy_check_mark:  Construir um CRUD de pessoa usando o PostMan, como serviço de API.
+- [X] Construir um CRUD de pessoa usando o PostMan, como serviço de API.
 
-:heavy_check_mark:  Implementar um Sistema de Autenticação.
+- [X]  Implementar um Sistema de Autenticação.
 
-:heavy_check_mark:  Colocar uma lista de pessoas na página Home.
+- [x] Colocar uma lista de pessoas na página Home.
 
 ## 🚀 Como executar o projeto
 
