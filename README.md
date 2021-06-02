@@ -12,6 +12,10 @@
  	<a href="#-metas-no-projeto">Metas</a> • 
   	<a href="#-tecnologias">Tecnologias</a>
 </p>
+                           
+<h4 align="center"> 
+	🚧  Em construção... 🚧
+</h4>
 
 
 ## :pencil: Sobre o projeto
