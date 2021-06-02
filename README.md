@@ -14,7 +14,7 @@
 </p>
                            
 <h4 align="center"> 
-	🚧  Em construção... 🚧
+	🚧  Status: Em construção... 🚧
 </h4>
 
 
